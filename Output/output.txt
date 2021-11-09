@@ -1,0 +1,70 @@
+Try1:
+C:\Users\jmo5660\.jdks\corretto-1.8.0_302\bin\java.exe -javaagent:C:\Users\jmo5660\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\212.5080.55\lib\idea_rt.jar=60910:C:\Users\jmo5660\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\212.5080.55\bin -Dfile.encoding=UTF-8 -classpath C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\charsets.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\ext\WheelsFX-1.0.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\ext\access-bridge-64.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\ext\cldrdata.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\ext\dnsns.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\ext\jaccess.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\ext\jfxrt.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\ext\localedata.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\ext\nashorn.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\ext\sunec.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\ext\sunjce_provider.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\ext\sunmscapi.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\ext\sunpkcs11.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\ext\zipfs.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\jce.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\jfr.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\jfxswt.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\jsse.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\management-agent.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\resources.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\rt.jar;C:\Users\jmo5660\Module12Assignment\out\production\Module12Assignment TestScores
+What is the name of the Assignment?
+Assignment1
+Enter the total points possible:
+0
+Enter the total points earned:
+0
+Possible points must be greater than 0. Error sequence initiated. TRY AGAIN.
+null
+What is the name of the Assignment? (type 'stop' to end)
+Assignment1
+Enter the total points possible:
+40
+Enter the total points earned:
+-1
+You cannot score negative points on a quiz. TRY AGAIN.
+What is the name of the Assignment? (type 'stop' to end)
+Assignment1
+Enter the total points possible:
+40
+Enter the total points earned:
+20
+What is the name of the Assignment? (type 'stop' to end)
+stop
+
+The grade earned from these assignments is 20.0/40 (50.00%)
+
+Process finished with exit code 0
+
+
+------------------------------------------------------------
+Try 2:
+C:\Users\jmo5660\.jdks\corretto-1.8.0_302\bin\java.exe -javaagent:C:\Users\jmo5660\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\212.5080.55\lib\idea_rt.jar=60832:C:\Users\jmo5660\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\212.5080.55\bin -Dfile.encoding=UTF-8 -classpath C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\charsets.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\ext\WheelsFX-1.0.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\ext\access-bridge-64.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\ext\cldrdata.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\ext\dnsns.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\ext\jaccess.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\ext\jfxrt.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\ext\localedata.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\ext\nashorn.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\ext\sunec.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\ext\sunjce_provider.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\ext\sunmscapi.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\ext\sunpkcs11.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\ext\zipfs.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\jce.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\jfr.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\jfxswt.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\jsse.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\management-agent.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\resources.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\rt.jar;C:\Users\jmo5660\Module12Assignment\out\production\Module12Assignment TestScores
+What is the name of the Assignment?
+Assignment1
+Enter the total points possible:
+100
+Enter the total points earned:
+88
+What is the name of the Assignment? (type 'stop' to end)
+stop
+
+The grade earned from these assignments is 88.0/100 (88.00%)
+
+Process finished with exit code 0
+
+
+------------------------------------------------------------
+
+Try 3:
+C:\Users\jmo5660\.jdks\corretto-1.8.0_302\bin\java.exe -javaagent:C:\Users\jmo5660\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\212.5080.55\lib\idea_rt.jar=60867:C:\Users\jmo5660\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\212.5080.55\bin -Dfile.encoding=UTF-8 -classpath C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\charsets.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\ext\WheelsFX-1.0.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\ext\access-bridge-64.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\ext\cldrdata.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\ext\dnsns.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\ext\jaccess.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\ext\jfxrt.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\ext\localedata.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\ext\nashorn.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\ext\sunec.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\ext\sunjce_provider.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\ext\sunmscapi.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\ext\sunpkcs11.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\ext\zipfs.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\jce.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\jfr.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\jfxswt.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\jsse.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\management-agent.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\resources.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\rt.jar;C:\Users\jmo5660\Module12Assignment\out\production\Module12Assignment TestScores
+What is the name of the Assignment?
+Assignment 1
+Enter the total points possible:
+100
+Enter the total points earned:
+50
+What is the name of the Assignment? (type 'stop' to end)
+Assignment1
+Enter the total points possible:
+100
+Enter the total points earned:
+88
+What is the name of the Assignment? (type 'stop' to end)
+stop
+
+The grade earned from these assignments is 138.0/200 (69.00%)
+
+Process finished with exit code 0
